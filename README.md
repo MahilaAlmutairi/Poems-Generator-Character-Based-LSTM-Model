@@ -1,7 +1,7 @@
 # Poems_Generator_Character-based-LSTM-model
 A model that generates Arabic praise poems. It composed of three layers:
-•	An embedding layer that takes integers indices and turns them into dense vectors of 256 dimensions. 
-•	A LSTM layer with 1024 units. 
+•	An embedding layer that takes integers indices and turns them into dense vectors of 256 dimensions.\
+•	A LSTM layer with 1024 units.\ 
 •	A dense layer with size outputs equals to vocab size (46 characters). 
 
 ### Used Libraries and Technologies:
